@@ -1,0 +1,2 @@
+lab2/dist/main.exe filter=lfs diff=lfs merge=lfs -text
+lab2/build/main/main.pkg filter=lfs diff=lfs merge=lfs -text
